@@ -1,0 +1,724 @@
+﻿horizontal line 
+ horizontal line 
+
+ short line 
+
+User Guide
+ApplicationStudio
+ short line 
+
+
+
+31st July, 2020
+
+
+________________
+
+
+Introduction
+ApplicationStudio is a new way to develop software applications. With less coding and a user friendly interface, developing softwares becomes a piece of cake. It not only eases the development process but also automates the deployment. 
+With a basic knowledge of software development, developing softwares becomes fun with ApplicationStudio. 
+As it is said that “programming is thinking rather than typing”, so you are just some clicks away from creating wonderful applications using ApplicationStudio. 
+From developing web pages to deployment of applications, ApplicationStudio does all the hard work for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please refer to this user guide for better understanding.
+________________
+Company Admin Registration
+1. Click on the REGISTRATION button from the Application Studio’s Home page,
+  
+
+2. This will redirect you to the CompanyAdmin registration page wherein you can fill all the details and click on the REGISTER button.
+  
+
+
+
+
+
+Admin Registration
+3. After successful registration you would receive a mail from appstudio@mkcl.org, click on the verification link to SELF VERIFY.
+4. After self approval and an approval from SuperAdmin you would be able to login as administrator by clicking on the LOGIN button,
+  
+
+________________
+5. Add Users 
+1. After successful login, you can add users as per your license provided by the super admin by clicking on the + ADD USERS button from Admin dashboard,
+  
+
+2. As per your license and limit of users that can be added, you can add users by providing the user's email address and loginId.
+  
+
+________________
+
+
+Add Group 
+1. As an administrator, you can add groups by clicking on the +ADD GROUP button from Admin dashboard,
+  
+
+2. Add your group name, description, enable/disable LDAP support for authentication,
+  
+
+Add Project 
+1. After creating a group, many projects can be added inside a single group by clicking on the +ADD PROJECT after selecting the desired group from group list,
+2. Add projectName, description, tags and select an end date (deadline) for your project,  
+  
+
+Assign Users in Project 
+   1. Once a project is added then you can assign particular added users to your created project by clicking on +ASSIGN USER button,
+   2. Select multiple users from dropdown list provided and then click on the ”YES, ASSIGN” button,  
+  
+
+Assigned User Verification
+      1. Each User assigned to a project will receive a verification mail for accepting the invite provided by the administrator to join their project, The verification status of all users can be seen on that page itself,
+      2. Now, Assigned users can accept the invitation and add a password for the assigned group which will be used while logging into the group.  
+  
+
+User Login
+         1. Click on the LOGIN button to login into AppStudio, user must use the emailId used during verification for login,
+  
+
+         2. After Clicking on “LOGIN” button, user can view his assigned groups and select any one of the group to login,
+  
+
+User Login
+         3. User must enter the associated group password that was inserted during verification,
+  
+
+         4. After successful login, now the user is able to view the list of projects that he is assigned in that particular group.
+  
+
+Creating an Application
+         1. After user selects a project from the list of projects, user would now be able to create an application of his own, by clicking on the “Add new” tile from the application dashboard or the user could also use his existing applications by choosing any one from application list,
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating an Application
+         2. By clicking on the Add New tile, user can either create a new application by selecting Blank Template or select any one application from existing templates, (This place is called as marketplace)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating an Application
+         3. User can add the Application name, description, tags and images required to create an application and finally click on the SAVE button to create a new application tile,
+  
+
+
+
+
+
+
+
+
+
+Application’s Dashboard
+         1. After selecting any one of the desired application, user can view the application’s dashboard which represents a list of tiles,
+  
+
+
+
+
+
+Creating a Portal
+         1. User can now select “Portals” tile from the list of tiles, after selecting the portals tile User will be able to view previously created portals or create a new portal by clicking on the “Add new” tile,
+         2. Similar to Application, user can also select any one of the existing template or create a new template by clicking on the blank template,  
+  
+
+Creating a Portal
+            3. User can add the Portal Name, description, tags and images required to create a portal and finally click on the SAVE button to create a new portal tile
+  
+
+
+
+
+
+
+
+Working on a Portal
+            4. Portal status is shown on the tile to check if the portal is running. If the portal is not running , a user can click on the deploy button in the bottom right corner to restart the portals.
+You can customize the portal by clicking on the newly created portal tile. It will redirect you to GRAV creator.
+Burger Menu Options:
+            * Edit Information : To edit the descriptive details of the portal
+            * Preview : To preview the portal created.
+            * Delete : To delete the portal
+
+
+  
+
+________________
+Working on a Portal
+            5. This is the GRAV creator page where a user can customize static webpages. Click on the Pages button to add new page for the portal. A user can customize the page using the GRAV page creation tools.
+Click on the Back button to successfully logout from the GRAV creator.
+  
+
+
+
+
+
+
+
+Working on a Portal
+            6. Following is the per page view when the user wants to update/edit pages for Portal. Various options are available for editing the page as per the user desires to. For example, users can add headings of various sizes, users can change the font style, users can add images, etc.
+  
+
+
+
+Working on a Portal
+            7. Users are able to view their designed portal by selecting the Preview option from the respective portal’s burger menu. This view is the preview for the actual portal that will be created and deployed.
+Note : This is a sample preview of the portal
+  
+________________
+
+Working on Website Assets
+            1. This is the landing page of website assets. It can be used to store the assets i.e images, documents , audio , folders etc. which are required for creating applications. 
+            2. Click on the New Folder button to add a folder in the currently opened directory in the website asset.
+            3. Click on the Upload File button to upload an image, document or audio etc. files at the current directory.
+            4. Click on the    button to sort folders/files either ascending or descending.
+            5. Click on the    button to toggle folders/files to list or grid view.
+            6. Clicking on the folder name in the left pane (Collapsible tree view) will also navigate to that folder.
+  
+
+Working on Website Assets
+               7. Users are able to toggle for their preference for viewing the file/folder structure by opting for the option visible in the following image for change in view. 
+               8. Users are able to opt for either “Grid View” or “List View” for best viewing.
+               9. Users are able to copy the url and use it for fetching and downloading the assets by using the Copy URL option which is available when users right click on the desired file/folders as well as may delete them too by using the Delete option.
+    
+________________
+Creating a Web Client
+                  1. Users can select the Webclient tile on the ApplicationStudio dashboard when they desire to create and use webclients for their application.
+                  2. Users can opt to create a new webclient by clicking on the ADD NEW tile or can use from the webclients that are already created by them on the webclient dashboard which displays the list of webclients.
+                  3. On the webclient dashboard, users are able to search for their particular webclient from the list of webclients.
+                  4. Users can see the recent activities for the changes or modifications done to the webclients.
+  
+________________
+MarketPlace in Web Clients
+                     5. Users can either create a new webclient by selecting Blank Template or select any one webclient from existing templates. Creating a new webclient will add default six pages in it. 
+If used in an existing template , all the pages created in that template will be copied in the newly created web client. (It can be customized afterwards)
+  
+
+
+
+
+
+
+
+
+
+
+MarketPlace in Web Clients
+                     6. Copying Existing Template : Click on the Template Tile to check out the details of that template. 
+                     * Click the Get This Template button to confirm copying .
+                     * Enter a new name for the webclient and click Confirm. 
+The template will be copied with the new name into the Webclient Dashboard . Users can now customize the template according to them.
+
+
+  
+
+
+Creating a Web Client
+                     7. Clicking on the Blank Template  button will redirect to the form to create a new webclient.
+                     8. Users can add the Web Client Name, description, tags and images required to create a web client and finally click on the SAVE button to create a new web client tile.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working on a Web Client
+                     1. Clicking on the web client tile will redirect you to the web pages dashboard.
+Pages are classified into the different modules. For e.g all the default pages are shown in the Default module.
+                     * To set webclient properties click on the Web Client Properties button .
+                     * To add a new web page click on the Add Page button.
+  
+
+
+
+
+
+
+
+
+
+
+
+Creating a Web Page
+                     2. Users can add the Page Name, Description, tags and images etc. required to create a web page.
+Page Title is the name which will be displayed as the title of the page in the browser.
+Select Module Name from the existing modules of pages or type a module to create a page in a new module.
+Toggle ON the Enable Store option if you want to add Vuex store for the page.
+NOTE: Page Name field can also be used for router navigation in Vue page source code.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a Web Page
+                     3. Click on the tile of any page to redirect to Page Editor. Page editor is used to design your webpage with easy to use draggable components and configuring events.
+                     * Select components from the left panel i.e. Button, Row , Input or V-for etc. and drag on the canvas. 
+                     * Click on any component present in canvas and click the gear icon    to modify the properties of that component.
+                     * Click on the paint brush icon    to add css styling to the component.
+                     * Click on the    button to view the source code of the page.
+
+
+  
+
+Creating a Web Page
+                        4. In the CodeEditor window,user can modify the code directly and it will reflect in the page. 
+                        * A user can add vue lifecycle hooks in the script and can add events just like working in a normal vue page. 
+                        * If the store is enabled, a Vuex block will be enabled where all the vuex related lifecycle hooks can be implemented.
+  
+
+
+
+
+
+
+
+
+
+Preview a WebClient
+                        1. Selecting the Build & Preview option on the webclient tile will redirect the user to the preview page.
+                        * Click on the Create Fresh Build  button to create a new build preview for that webclient.
+                        * To view the last preview created, click on the Preview button to view the webclient.
+The webclient preview shows exactly how the webclient will look after deployment.
+
+
+  
+
+
+
+
+
+Creating a Bucket
+                        1. Click on the Documents tile on the dashboard to configure buckets to store user files.
+                        2. In the documents dashboard, click on Add New tile if you want to add a new bucket.
+NOTE: Buckets can be considered as a container in which a user can configure documents of similar type. For e.g. a bucket named “Identity” can be used to store different types of identification documents i.e Aadhar Card, Pan Card , Passport etc.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating a Bucket
+                        3. A User has to enter a Bucket title , File Size Limit , Bucket description , Tags , Folder name in which the document will be stored on CDN.
+                        * Toggle ON the Private Button option if you want to make the bucket as private. (Only the authorized end user will be able to upload documents).
+                        *  The File Size Limit field is the maximum size of file which can be uploaded in this bucket in MegaBytes.
+
+
+  
+
+
+
+
+
+
+
+Working on Documents
+                        4. Clicking on the bucket tile will redirect the user to the documents dashboard.
+The list of all the documents configured in the bucket will be shown here.
+                        * Click      button to copy the document Id and use it in the web page code for CDN related operations.
+
+
+                           * To add a new document, click on the Add New Document button .
+
+
+  
+________________
+
+Creating a Document
+                           5. To create a new document, A user can add a document name, description , tags etc. and click on the SAVE button to successfully add a new document.
+                           * Document Thumbnail Message is used to show the label on the upload button of the web page to which this document is linked.
+                           * A user can select multiple file types from the Supported file types drop down to restrict the types for that document. Currently PDF,JPEG,PNG and DOC files are supported for upload.
+
+
+  
+________________
+
+Working with Workflow
+                           1. Users can create workflows for their applications if their business needs to have workflow functionalities in their application.
+                           2. They can do so by clicking on the workflow tile on the application dashboard. Users can create new workflows or select from pre-existing workflows.
+                           3. Users can create a new workflow by clicking on the ADD NEW tile on the workflow dashboard or can design workflow by clicking on the specific workflow.
+                           4. Workflow can have many options in their burger menu as described below:
+                           * Edit Information : Edit the information like workflow code,description,etc for particular workflow.
+                           * Copy ID : Copy the workflow Id for the usage of workflow in the webclient for workflow functionality.
+                           * Visual Designer : This option redirects to Visual Designer for designing the workflow.
+                           * Delete : If workflow is not required and used, Users are able to delete them.
+  
+
+
+
+Working with Workflow
+                           5. Workflow has a component for designing and saving a particular workflow named as Visual Designer. Visual Designer has functionalities that are stated below:
+                           * Designing the workflow with steps,activities and various connections in them.
+                           * Save workflow after desired level of workflow is designed.
+                           * The Add Step button is used to add new steps whenever the flow of workflow requires a step.
+                           * The Undo button will be able to revert the last made changes to the design of workflow.
+                           * The Clear button will clear the whole workflow design if the user wants to clear out the designer canvas to take a fresh take.
+                           * The close button will close the visual designer canvas for the workflow.  
+
+
+
+
+Working with Visual Designer
+                              1. Visual Designer is a very essential component for designing workflows.
+                              2. Proper cautions and various sets of rules need to be followed while creating a workflow.
+                              3. Before creating a workflow lets know what the terminologies are used in visual designer.
+                              * Step : A step is a node for the operation that needs to be carried out by the workflow. In workflow, the functionality is carried on in various functional blocks which gets executed/worked over eventually when workflow is executing.
+                              * Activity : The activity is defined as the core block for the functionalities of workflow which consists of two types, Server API activity and Page Activity.
+                              * Sub step : Sub step is distinguished in two different steps such as accept substep and reject substep. Accept substep is functional when the activities will return a true/accept status on the execution of the activities it is required to perform.Reject substep is functional when the activities will return a false/reject status on the execution of the activities it is required to perform. 
+                              * Add/Remove Links : This option is used to connect the various steps and activities as well as remove any link in them if required.
+                              * Delete activity : This will delete the activity if not required for designing the user's desired workflow.
+                              * Activity Properties : It will capture the activity’s basic information like name, code and description as well as the type of activity in Page activity or Server activity and select the respective Page activity or server activity.
+                              * Step Properties : It will capture the step’s basic information like name,code and description as well as it takes the actor as input which determines which type of user/actor will be able to execute the step and activity the step consists of.
+  
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working with Core Studio
+                              1. For understanding and working with Core Studio, users need to refer to the following link which consists of comprehensive and ellabrote functionalities and working of core studio.  
+                                 * CoreStudio User Guide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Creating and configuring Environment
+                                 1. Users need to create an environment for the purpose of deployment which is very much essential as it has to configure data like database, URL(s), Email, SMS, global configuration and security.
+                                 2. Users can do so by clicking on the environment tile on the application’s dashboard.
+                                 3. Users can create a new environment by clicking on the ADD NEW tile or can configure a pre-existing environment from the list of environments on the environment dashboard.
+                                 4. Search functionality is provided in the environment dashboard for searching the environment from the list of environments.
+  
+
+
+
+
+
+
+
+Configuring Environment
+                                 1. While configuring a particular environment, users can be able to view the following screen which shows the count for configurations made for each entity.
+                                 2. Users can click on any of the individual entity tile for configuration of that particular entity like database,email,etc.          
+                                 3. For database configuration, the users will be able to see the database configurations that can be configured for the environment and those already configured for the environment.  
+  
+
+                                    4. Users can create the configuration for the URL required by the environment which needs to be deployed. It takes up the configuration for public ip, private ip over which the environment will be deployed , host and base url over which the application can be viewed.
+  
+
+
+
+                                    5. Users are required to make a security configuration of the environment by providing the JWT key for the application or by generating one.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Configuring DNS
+                                       1. Users can configure the required DNS configuration for the application which requires it to be deployed. DNS configuration is very much essential for deployment procedure and it can be filled up only when all the environment configuration is present for the application.
+                                       2. Users need to configure the default configuration for the application from either one of portal’s list or from webclient’s list
+                                       3. Users can add context to the webclient or portal configuration only once which will reflect in the URL for the application.
+  
+
+
+
+
+
+
+
+
+
+Configuring DNS
+                                       4. Enter the context for the webclients and portals. This will be the absolute URL to access that particular webclient or portal.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working on Builds
+                                       1. On clicking the Builds tile from the dashboard, user will be redirected to the Build Manager dashboard. All the builds previously created will be shown here.
+                                       * To add a new build ,click on Add New tile.
+                                       * To perform operations on a build click on the burger menu and select any of the following action
+                                       * Make Build:  It will redirect to the page where a user can build all the clients and servers created in the application. 
+        Note: Clicking on the build tile will also redirect to the make build page.         .
+                                       * Edit Information : To edit the descriptive properties of the build.
+                                       * Mark for Release : To mark the build for release (This build will be ready for deployment in the respective environment).
+Note: Click     button on the tile will also mark the build as released.
+                                       * View Logs: To view the user logs for the build.
+                                       * View System Logs: To view the system logs of the build.
+                                       * To purge (Remove completely) builds , click on the Purge button to select the builds you want to purge.   
+Working on Builds
+                                          2. Build can be created by selecting the respective environment which is to be used in the build process as well as that needs to be deployed.
+                                          3. Basic data required for build like build name, build code and description needs to be added.
+  
+
+
+
+
+
+
+
+
+
+
+
+Working on Builds
+                                          4. After creating build and clicking on the particular build the process of building the required entity that needs to be deployed should be done.
+                                          5. Users can build the required entity like webclient, portals, server API, workflow server or static resources.
+                                          6. Users are able to see the time duration taken as well as status for the building process of the respective entity.
+  
+
+
+
+________________
+Working on Builds
+                                          7. A user will only be able to Finish the build only if all the builds are completed successfully. After successful completion, click on the Finish button to mark the build as completed.
+________________
+  
+
+Working on Builds
+                                          8. Clicking on the Purge button in the build dashboard will redirect to the purge builds page. Check all the builds you want to purge and click the Purge button to remove all the builds.
+NOTE: Purging the builds will delete all the builds completely. Use the purge option with caution.
+
+
+
+
+________________
+  
+
+Working on Deployment
+                                          1. Finally after the desired designing, developing and configuring the application as per the user, Users can now deploy the application on the specified VM of configurations made in the environment of the application.
+                                          2. Deployment dashboard consists of a button for the deployment process and has the list of deployment done for the application with the different types of required logs generated by the deployment process.
+
+
+________________
+  
+
+Working on Deployment
+                                          3. Clicking on the Deploy Build button on the deployment dashboard will redirect the user to the deployment page.
+                                          * In the first tab i.e. Build Environment perform the following operations
+                                          * Select the environment
+                                          * Select the respective build. 
+Note: The builds that were marked as released will only be shown here.
+
+
+                Click on Proceed button to continue for the deployment of the application.
+
+
+________________
+  
+
+Working on Deployment
+                                          * On the second tab i.e Checking Prerequisites , Application Studio will check all the softwares and utilities required on the deployment machine .
+NOTE: The deployment machine is that machine whose Local IP and public IP is configured in URL Configurations in Environment Tile.
+                                          * If any prerequisite is not installed, it will be automatically installed on the machine and started as well.
+                                          * All the prerequisites will be restarted if installed already
+NOTE: A user cannot proceed further if all the required prerequisites are not up and running on the deployment machine.
+
+
+        Click on Proceed button to continue for the deployment of the application.
+
+
+________________
+  
+
+Working on Deployment
+                                          * On the third step i.e Build Deployment, the build data is copied to the deployment machine, previous data is backed up if already deployed, creates necessary database configurations and deploys the application on the deployment machine.
+
+
+Click on the FInish button to mark the deployment as success.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Guide
+                                          1. Application Studio has multiple options and buttons that are used for the routing inside Application Studio. Following is the image that graphically shows the buttons and options used for routing and also its description.
+                                          * Back button : This button is used to navigate back in the Application Studio.
+                                          * Change Group : This option lets users change the company group by routing to the screen where users can select the desired company group.
+                                          * Change Project : This option lets users change the project in the current working company group by routing to the screen where users can select the desired project.
+                                          * Change Application : This option lets users to change the application inside the project by routing to the screen where user can select the desired application of the project.
+  
+
+  
+ footer
