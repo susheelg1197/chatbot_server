@@ -1,6 +1,6 @@
 # chatbot_server
-A chatbot made for project application studio
-Server deployed on heroku 
+A chatbot made for project application studio.
+<br>Server deployed on heroku 
 ## LIVE URL 
 (https://chatbot-client.vercel.app/)
 
